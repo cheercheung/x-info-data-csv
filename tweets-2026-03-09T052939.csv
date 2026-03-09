@@ -1,0 +1,762 @@
+#,作者,账号,时间,原文,回复,转发,点赞,浏览,链接
+1,刘小排,@bourneliu66,2026-03-09T04:59:41.000Z,"AI 编程课到处都是。
+
+江湖传言说“做 AI 产品的没赚钱，做 AI 课程的赚钱了”，在一定程度上是真的。
+
+问题在于：大多数老师做的是自媒体，自己根本没做过商业上能打的产品。
+
+所以，我来了。
+
+对我的课感兴趣的朋友，看这里文末预约 
+https://
+mp.weixin.qq.com/s/8OFztL-wfv_F
+Eo--Mzmcrw
+…",,1,7,416,https://x.com/bourneliu66/status/2030871119444758779
+2,dontbesilent,@dontbesilent,2026-03-09T04:01:55.000Z,"最近有个 AI 产品，特别神奇，一时想不起来名字了。
+
+反正就是人人都想安装它，但就是没见到多少人用它做出什么正经东西来。
+
+我见到的少数几个能用好它的人，都是本身技术功底极好的人——就算没有这个产品，他们也能捣鼓出些名堂。",27,7,67,8012,https://x.com/dontbesilent/status/2030856584134557904
+3,Cell 细胞,@cellinlab,2026-03-09T02:40:05.000Z,"我发现，我很少怼人， 
+这是性格原因，还是博弈结果？",9,,2,657,https://x.com/cellinlab/status/2030835989707374728
+4,歸藏(guizang.ai),@op7418,2026-03-09T04:21:42.000Z,"终于给 CodePilot 做了设计师该做的功能！
+
+现在支持精心配置的 13 套主题切换，都区分亮暗模式！
+
+灵感来自比较流行的 Vscode 主题再演绎
+
+现在咱这个产品的颜值真的拉满，你也可以自己设计自己的主题，后面会支持加载",7,1,11,2580,https://x.com/op7418/status/2030861559862644783
+5,数字生命卡兹克,@Khazix0918,2026-03-09T03:19:36.000Z,,4,5,41,7420,https://x.com/Khazix0918/status/2030845932343009549
+6,Elon Musk,@elonmusk,2026-03-09T01:13:15.000Z,Giving people agentic AI be like …,3200,3300,39000,15141241,https://x.com/elonmusk/status/2030814137811341589
+7,Warren,@WarrenLau_,2026-03-09T00:37:45.000Z,够离谱的，有没有和我一样，到现在都没安装过 OpenClaw 的，都不知道做什么用,5,,4,1223,https://x.com/WarrenLau_/status/2030805202329374791
+8,歸藏(guizang.ai),@op7418,2026-03-09T03:34:18.000Z,"笑死 Codex 批评 Claude Code 干活敷衍
+
+只管当前的问题修复，不管修复带来的影响",7,1,28,7648,https://x.com/op7418/status/2030849634600616218
+9,欧巴聊AI,@hungryturbo,2026-03-08T16:20:08.000Z,"兄弟们，这个项目夯爆了！
+
+Edit Banana 可以将不可编辑的静态资产（如 PNG，JPG 图片，PDF 文件）转化为完全可编辑的格式（如 DrawIO 的 XML，SVG，PPTX ）。
+
+先是使用经过团队微调的 SAM 3 掩码解码器，对图表中的各个元素进行精准分割。
+
+然后用 Qwen-VL 或 GPT-4V",,,,79,https://x.com/hungryturbo/status/2030679975276478756
+10,CaiCai,@hi_caicai,2026-03-09T02:50:02.000Z,最近看到让我最震惊的两张图.... 除了问号，还是问号...,6,1,13,2121,https://x.com/hi_caicai/status/2030838493132566694
+11,阿西_出海（2.0版）,@imaxichuhai,2026-03-09T02:15:15.000Z,,1,5,16,857,https://x.com/imaxichuhai/status/2030829737308991839
+12,Yangyi,@yangyi,2026-03-09T02:11:13.000Z,"阿里云百炼coding plan好端端的不知道做了什么调整
+error: Coding Plan is currently only available for Coding Agents
+
+之前用户都用的好好的，顶多就是response有时候会带user返回，这两天突然就不能用了，不只牛马AI，Openclaw里也没法用了
+
+有没有百炼的推友了解前因后果的？",3,,5,3563,https://x.com/yangyi/status/2030828726150447268
+13,Bob Zhang | Humorist,@affLeopard,2026-03-09T04:33:05.000Z,"Orange 大佬分享的这个比尔 · 格利视频，真不错！
+向跟同行学习要分享最佳时间
+怎么利用twitter等社交媒体来跟大佬学习
+
+这两天我一直在学习，在思考！
+
+我把用NotebookLM生成的音频上传到小宇宙了，对这类职业发展、个人成长有兴趣的朋友可以去听一听！",,,1,100,https://x.com/affLeopard/status/2030864427093053699
+14,比特币橙子Trader,@oragnes,2026-03-09T03:01:19.000Z,"卧槽，Agents的虚拟visa卡来了，留给加密的时间不多了？
+
+Claude 、Cursor 等终端一条命令，就可以给你的Agents创建一张虚拟Visa卡。
+
+ 1/ 原生接入 MCP：一条命令就能打通，你的 Claude 或 Cursor 可以在对话里直接调取卡片信息去付费购买 API、开服务器，实现真正的 Agentic",16,18,79,13344,https://x.com/oragnes/status/2030841331191578779
+15,宝玉,@dotey,2026-03-08T19:37:55.000Z,"貌似 X 把 Chrome CDP 禁了？
+
+没办法用 Chrome CDP 登录 X 了",15,1,50,23292,https://x.com/dotey/status/2030729747123085402
+16,小互,@xiaohu,2026-03-09T01:40:26.000Z,"OpenClaw AI Agent 小龙虾能力排行榜
+
+专门测试各家大模型在 OpenClaw 框架下执行实际编码任务的成功率。
+
+用一套标准化的 OpenClaw Agent 任务来跑各个模型，通过自动化检查 + LLM 评审来打分，衡量每个模型完成任务的成功率。
+
+前三名分别为：
+
+Gemini 3 Flash Preview
+MiniMax M2.1
+Kimi K2.5",13,11,46,11282,https://x.com/xiaohu/status/2030820977513463987
+17,WY,@akokoi1,2026-03-09T01:47:00.000Z,"国内还在卷OpenClaw的各种喂饭教程，国外已经有人通过出售SOUL、skills变现了。
+
+本质上是出售你训练好的OpenClaw，最终交付的内容包括SOUL、MEMORY、skills等文件。
+
+两个思路：
+针对某个细分场景打磨一个OpenClaw，比如小红书运营助手，设计师、仓库管理员等等，甚至有人直接克隆了 Dan Koe",28,56,309,25838,https://x.com/akokoi1/status/2030822630438416480
+18,苏打白.Dev,@sodawhite_dev,2026-03-08T11:03:42.000Z,有人创建了一个名为 GitCity 的城市，其中每栋建筑代表一个 GitHub 帐户，其高度取决于该帐户的贡献。你甚至可以在那里投放广告，这真是个天才的想法…,17,85,621,119112,https://x.com/sodawhite_dev/status/2030600340626620506
+19,M.,@wlzh,2026-03-08T14:52:17.000Z,"跟大龙虾越聊越停不下来，
+
+把我这些年的 flomo 和得到笔记，
+
+全部灌进去后，的结果",1,,3,887,https://x.com/wlzh/status/2030657865485328488
+20,Yifeng Wang,@ewind_dev,2026-03-08T07:21:07.000Z,最新时尚挂件 get！,27,134,3100,89807,https://x.com/ewind_dev/status/2030544325353054418
+21,Cell 细胞,@cellinlab,2026-03-08T16:10:50.000Z,"听说 三方 API 不能发推了，是真的吗？
+
+这是来自 Typefully 的测试。",5,,3,1207,https://x.com/cellinlab/status/2030677632506044858
+22,岚叔,@LufzzLiz,2026-03-08T08:56:18.000Z,"openclaw新版本来了，推荐升级：除了支持GPT-5.4 , 
+telegram topic支持选择agent了，自定义程度更高了
+
+thread/topic 可以和 ACP 会话绑定更丝滑更持久，看来openclaw是想做好这个总控
+
+还有我感觉GPT-5.4 好快呀，疯狂输出",7,1,17,13963,https://x.com/LufzzLiz/status/2030568277311951053
+23,一地鸡毛,@zhang_baoqing,2026-03-09T03:33:14.000Z,"00后学生10天写出GitHub热榜第一AI项目，获陈天桥3000万投资
+
+00 后大四学生 BaiFu 获盛大集团创始人陈天桥 3000 万元人民币投资，从盛大实习生转型为 AI 创业公司 CEO，负责多智能体预测引擎 MiroFish 的后续开发与孵化。",2,,1,110,https://x.com/zhang_baoqing/status/2030849366383120626
+24,卡比卡比,@jakevin7,2026-03-09T04:05:37.000Z,"twitter-cli 重大升级!！
+逆向了几乎所有的接口, 而不仅仅是之前只有读接口.
+
+现在实现了发帖子、点赞、引用 回复 等基本上所有的写请求！包括搜索等也都实现了！",11,31,203,10020,https://x.com/jakevin7/status/2030857515660132533
+25,JaredL,@jaredliu_bravo,2026-03-08T09:20:03.000Z,"Claude Code 开多个 Session 并发干活很爽，但有个问题：任务一多，根本不知道做到哪了。
+而且没建 worktree 的话，全堆在一个分支，review 和测试都没法细粒度做。
+
+最近发现一个工具解决了这个问题，vibe-kanban。用了 2 个月了，推荐给大家：
+
+• 可视化看板管理多个并发任务
+• 每个任务自动建",7,18,113,15092,https://x.com/jaredliu_bravo/status/2030574257193759120
+26,Leo,@runes_leo,2026-03-08T23:27:00.000Z,"给 Claude Code 接了个 X 搜索引擎。
+
+基于 Grok 搭了个本地桥接服务，常驻后台，Claude Code 需要搜 X 时自动调用。终端一行命令，几秒返回摘要 + 相关用户原话。
+
+两个关键优势：不走 X 官方 API（省掉每月 $200 的 Basic
+套餐），而且能搜到实时动态——API 搜索有延迟和索引限制，Grok",26,42,309,23386,https://x.com/runes_leo/status/2030787396976132253
+27,Tencent AI,@TencentAI_News,2026-03-07T16:55:57.000Z,"聽見大家的熱情，今天起，騰訊 QQ 正式對個人用戶開放 OpenClaw 官方接入，只需一鍵即可創建你的專屬 QQ 機器人！
+
+支持Markdown、圖片、語音、檔案等多媒體訊息收發功能。
+
+此外，騰訊雲輕量服務器Lighthouse也已首發支援 OpenClaw全面適配Discord、WhatsApp、Telegram 和 iMessage",123,247,1100,282572,https://x.com/TencentAI_News/status/2030326597975523451
+28,数字生命卡兹克,@Khazix0918,2026-03-08T06:22:26.000Z,酷，官方终于支持GPT-5.4了！,7,1,25,14797,https://x.com/Khazix0918/status/2030529557229715590
+29,Leobai｜天策,@Leobai825,2026-03-08T05:05:28.000Z,"深圳Web4.0中国行活动有点太火爆了
+下午两点开始目前就已经没座位了
+而且好多熟人呀，一打开账号都认识",14,3,60,30500,https://x.com/Leobai825/status/2030510188898230393
+30,Berryxia.AI,@berryxia,2026-03-08T08:41:29.000Z,"再次证明真香定律！
+
+前两天时间线上都在骂Apple MacBook Neo 4000 多是工业垃圾！
+
+如今教育优惠+国补+以旧换新一套组合拳下来2k 多，大家都说真香！",14,1,27,26604,https://x.com/berryxia/status/2030564550219882590
+31,向阳乔木,@vista8,2026-03-08T09:11:48.000Z,"人还是需要有闲暇娱乐时间。
+
+一个不相关的关键词或场景，就能激发新的AI玩法。
+
+如果今天不刷抖音，根本不知道有个牛逼的艺术公司叫mondo，以制作限量版电影海报和艺术品而闻名。
+
+用此关键词让AI研究写提示词，比自己写的强N倍。
+
+艺术靠偷，果然不假。",16,23,134,19479,https://x.com/vista8/status/2030572179650478551
+32,Mr Panda,@PandaTalk8,2026-03-09T03:47:31.000Z,"我拉了三个 OpenClaw 群之后， 我知道了，  
+利好的是模型厂商、云厂商、还有LLM 的API 中转站。",8,1,11,2490,https://x.com/PandaTalk8/status/2030852959404487137
+33,Niko,@guishou_56,2026-03-08T12:27:16.000Z,今天哥飞老师分享了一个东西：所有浏览器重复操作，都能让 AI 写插件自动化,8,86,446,26325,https://x.com/guishou_56/status/2030621372020306134
+34,karminski-牙医,@karminski3,2026-03-09T00:00:03.000Z,"给Mac用户的一毛不拔使用openclaw教程
+
+大家玩了一段时间龙虾 (openclaw) 都抱怨太烧 token 了, 于是给大家来一篇 openclaw 使用本地模型的教程.
+
+本教程最大的好处是, 我写了个给AI看的教程文章, 对的, 不需要你自己看, 你只需要在 Mac 本地先部署一个 claude code, 然后把教程地址给它,",11,40,182,19063,https://x.com/karminski3/status/2030795715484729829
+35,Andy Stewart,@manateelazycat,2026-03-09T03:43:06.000Z,"腾讯直接下场做 OpenClaw 的变种了？竟然支持微信控制会不会再被张小龙干掉
+
+还有一点很有意思，内置的模型不是元宝，而是Kimi-2.5
+哈哈哈哈哈",29,22,117,28628,https://x.com/manateelazycat/status/2030851849369387380
+36,拖拉机,@tuolaji2024,2026-03-08T13:23:55.000Z,"腾讯悄悄做了个QClaw，除了一键部署之外，还可以一键直连微信。也就是说，除了飞书、钉钉、QQ等IM之外，现在你可以在你的个人微信上，跟你的龙虾通信了。目前产品正在内测中。
+
+张小聋听进去人话了？",56,72,504,168162,https://x.com/tuolaji2024/status/2030635626639610116
+37,Kevin Ma,@kevinma_dev_zh,2026-03-08T11:18:37.000Z,来一起聊聊养龙虾吧，养过的可以分享一下好玩儿的，还没养的也可以来围观,,,5,851,https://x.com/kevinma_dev_zh/status/2030604092075298930
+38,OpenClaw,@openclaw,2026-03-08T05:53:56.000Z,"OpenClaw 2026.3.7 
+
+ GPT-5.4 + Gemini 3.1 Flash-Lite
+ ACP bindings survive restarts
+ Slim Docker multi-stage builds
+ SecretRef for gateway auth
+ Pluggable context engines
+ HEIF image support
+ Zalo channel fixes
+
+We don't do small releases.",381,703,5000,1201619,https://x.com/openclaw/status/2030522386894946620
+39,Elon Musk,@elonmusk,2026-03-09T02:51:18.000Z,Have you ever bought anything based on an ad on this platform?,6700,1800,8700,8035167,https://x.com/elonmusk/status/2030838811794833670
+40,Chris,@everestchris6,2026-03-08T19:40:12.000Z,"This OpenClaw bot finds & reaches out to creators on autopilot...
+
+My client uses it to sign 100's of creators to his agency, here's how it works:
+
+- Finds 100's of creators via YouTube & Twitch
+- Scores every channel by views, niche & fit
+- Writes fully personalised emails for",282,37,476,42173,https://x.com/everestchris6/status/2030730319645769767
+41,左子祯,@zuozizhen,2026-03-08T08:53:55.000Z,小红书上已经有U盘版 OpenClaw了，好思路啊,36,69,582,175600,https://x.com/zuozizhen/status/2030567679967551676
+42,宝玉,@dotey,2026-03-09T00:20:28.000Z,想把skills发布到clawhub，发现访问不了,8,,17,11708,https://x.com/dotey/status/2030800853146230922
+43,Cell 细胞,@cellinlab,2026-03-08T15:05:56.000Z,"哈哈哈 甚至可以收到 Claude 退款！
+
+本来 以为得一周，没想到这么快到账",3,,6,2582,https://x.com/cellinlab/status/2030661300628443638
+44,鱼总聊AI,@AI_Jasonyu,2026-03-08T13:48:24.000Z,"我这么多的文章，为啥只有这一篇这里带了一个“Listen”的按钮，可以收听音频？？？
+
+这东西怎么加上的？",4,2,17,11427,https://x.com/AI_Jasonyu/status/2030641789997314227
+45,Mr Panda,@PandaTalk8,2026-03-08T13:31:57.000Z,我养的龙虾可会割韭菜了,5,4,19,5888,https://x.com/PandaTalk8/status/2030637648424141020
+46,一地鸡毛,@zhang_baoqing,2026-03-08T13:34:42.000Z,"突然想起了之前的一个生图提示词
+
+用香蕉2测了一下
+
+没有当初香蕉pro 出来的那么惊艳",1,,,85,https://x.com/zhang_baoqing/status/2030638339192127536
+47,Berryxia.AI,@berryxia,2026-03-08T23:40:36.000Z,虽然没啥用，但是看着好爽啊！,11,1,18,3618,https://x.com/berryxia/status/2030790820568375417
+48,Elon Musk,@elonmusk,2026-03-09T00:26:20.000Z,"How to make cool videos with 
+@Grok
+ Imagine",775,746,3700,1135051,https://x.com/elonmusk/status/2030802327800615308
+49,熊叔的茅草屋,@xionghuanwei,2026-03-08T07:14:44.000Z,"我搞了一个有门槛的关于公众号运营和AI 自媒体相关的社群。
+主要目的：
+过滤并且找到同频的人，同时连接创业者。
+找到志同道合的人太重要了！",10,,19,6254,https://x.com/xionghuanwei/status/2030542720679154094
+50,xiyu,@ohxiyu,2026-03-09T04:01:19.000Z,"一小段精简 openclaw 的提示词。
+------
+我的 OpenClaw 是一个运行在 Mac Mini 上、通过 Discord 协调的多 Agent AI 自动化系统。
+我用了一段时间后感觉 Agent 太多、不知道谁在干什么、维护成本高。
+我想在不删功能、不破坏现有数据的前提下，合并冗余 Agent。
+
+## 我最依赖的功能（改成你自己的）
+-",3,,16,1498,https://x.com/ohxiyu/status/2030856433424879638
+51,Orange AI,@oran_ge,2026-03-08T22:32:10.000Z,"miclaw 看了一下，还是原来那套小米的手机系统API来回调用的东西，只是换了个名字蹭热点。
+小米真是不行了，从硬件到软件，认知都太落伍。",17,,59,22749,https://x.com/oran_ge/status/2030773597346951461
+52,KK.aWSB,@KKaWSB,2026-03-09T03:57:02.000Z,"感叹，现在真是个开发者的好时代啊！
+
+据说这个产品想法是老哥昨天中午来的灵感，晚上做出来产品，今天就正式发布了。
+
+从想法到开发到产品发布，24小时内完成。
+
+我这条分享推文1小时2.6万阅读，说明产品确实很cool，很有热度。
+
+产品核心功能有两个：",,1,8,4266,https://x.com/KKaWSB/status/2030855353295102220
+53,yetone,@yetone,2026-03-08T12:10:26.000Z,你们这些用 Next.js 的人，电脑真好，羡慕了,11,2,80,15790,https://x.com/yetone/status/2030617134313984008
+54,M.,@wlzh,2026-03-08T12:21:22.000Z,"就像OpenClaw人手至少养一只
+
+CLIProxyAPI这种项目就该人手部署一个
+
+本地也好、云端也罢
+
+必须得上个！",,1,9,2866,https://x.com/wlzh/status/2030619884938531256
+55,Jackywine,@Jackywine,2026-03-08T14:35:29.000Z,每个城市都应该有更多的黑客松！,4,,4,968,https://x.com/Jackywine/status/2030653635957547441
+56,Justin,@interjc,2026-03-09T04:33:37.000Z,"OpenClaw
+QClaw
+360Claw
+DouClaw
+AliClaw
+WeiClaw
+MeiClaw
+MiClaw
+HWClaw",7,,6,2646,https://x.com/interjc/status/2030864560077611459
+57,Stella Lin,@StellaLinNotes,2026-03-09T03:11:15.000Z,此刻我的常用节点用不了 Manus，得切换美国节点才行。所以，Meta 收购这事到底完成没有啊？,,,,57,https://x.com/StellaLinNotes/status/2030843833345626477
+58,Peter Steinberger,@steipete,2026-03-07T23:56:01.000Z,how did we ever do this before AI?,191,85,2300,226973,https://x.com/steipete/status/2030432313293640084
+59,Cali Castle,@calicastle,2026-03-09T04:19:27.000Z,看来要为献祭我的 128G M3 Max MBP 了,1,,5,2240,https://x.com/calicastle/status/2030860996454265077
+60,sitin,@sitinme,2026-03-08T09:10:00.000Z,"Twitter 书签自动整理 Skill
+
+如果说推特书签是不是存了几百条从来没看过，那可以看看这个，我也是刷帖子的时候发现的，感觉还不从。
+
+LobeHub 技能市场上了一个 twitter-bookmark-sync Skill：
+• 每天自动抓取你的推特书签
+• AI 排序 + 打分
+• 生成一份精选阅读清单推送给你
+
+安装方法：
+clawhub",4,31,195,11621,https://x.com/sitinme/status/2030571726095233113
+61,郭宇 guoyu.eth,@turingou,2026-03-08T02:58:24.000Z,没事儿逛逛 variant，看到不少国人做的小程序，有些还挺有意思的，比如这个 AI 手串,21,38,389,67754,https://x.com/turingou/status/2030478212011290872
+62,欧opacity,@ouopacity,2026-03-08T05:23:14.000Z,Openclaw 深圳聚会准备中,8,,28,3670,https://x.com/ouopacity/status/2030514660265676975
+63,Austin,@austinit,2026-03-08T14:45:19.000Z,"离谱，Opus 4.6 太聪明了，居然能够意识到自己正在被评估。
+
+它先推断可能是哪个 benchmark，然后逆向工程破解了答案密钥的解密逻辑。 
+
+结果发现 GitHub 上的文件格式不对，于是找到了该文件的镜像站点。 
+然后对其进行解密并给出了正确答案。",5,14,199,37116,https://x.com/austinit/status/2030656109925880098
+64,Tantan Fu,@luckytantanfu,2026-03-08T09:17:39.000Z,非常惭愧，今天才把 Claude Code in Action 看完，又发现有更多的课程了，加入清单,6,9,87,8903,https://x.com/luckytantanfu/status/2030573653780570241
+65,范凯说 AI | AI Insights,@fankaishuoai,2026-03-08T16:15:56.000Z,"我现在发现一个升级小龙虾的经验，除了让 AI 帮我改配置之外：
+
+1. 开一个终端窗口
+2. 用 `openclaw logs --follow` 打 log，实时输出内容
+3. 出现错误信息后，直接粘给 AI
+
+这样定位问题就准确多了，不然 AI 也在那儿瞎试",9,7,45,9788,https://x.com/fankaishuoai/status/2030678916739064190
+66,SimbaLee,@lipeng0820,2026-03-08T14:20:17.000Z,"疯了疯了，彻底疯了。
+
+政策扶持也要讲基本法，直接拔苗助长了么？",4,,7,6071,https://x.com/lipeng0820/status/2030649813138804866
+67,AIGCLINK,@aigclink,2026-03-08T23:15:10.000Z,"目前看到的在医疗方向最大的养虾OpenClaw技能库：OpenClaw-Medical-Skills，872个技能
+
+涵盖临床医学、基因组学、药物发现、生物信息学、医疗器械等
+
+用上，你的OpenClaw就可以变成专业的医学科研助手，能进行PubMed查询、临床试验检索、药物相互作用分析、基因变异解读、生成SOAP病历、出院小结等等",9,95,403,35631,https://x.com/aigclink/status/2030784419938927069
+68,Andy Stewart,@manateelazycat,2026-03-09T03:36:58.000Z,这是看过的最好的把 mac mini 变成一体式 AI 主机的方式之一，国内厂商应该跟进很快吧？,21,46,191,46131,https://x.com/manateelazycat/status/2030850302715498675
+69,YC (Yucheng Liu),@lyc_zh,2026-03-08T15:50:57.000Z,我突然意识到，政府补贴OPC，不就是UBI的变种？？,12,3,40,11942,https://x.com/lyc_zh/status/2030672629208637715
+70,卡尔的AI沃茨,@aiwarts,2026-03-08T14:54:21.000Z,"通过飞书新发的插件和藏师傅 
+@op7418
+  的Claude-to-IM-skill基础上，成功把OpenClaw，Codex，Claude Code都同一时间接到飞书里了，新飞书插件还能做到流式输出，跟多维表格互动！
+
+PS：Claude-to-IM-skill需要新增实例，然后改掉CTI_ANTHROPIC_AUTH_TOKEN的鉴权才能走Claude Code + CC-Switch",3,12,59,8219,https://x.com/aiwarts/status/2030658383892885759
+71,Barret李靖,@Barret_China,2026-03-09T01:53:45.000Z,"当下的 OpenClaw 使用体验，其实还挺像当年 ChatGPT 4.x 刚出来时的阶段。能用，也确实能解决不少问题，但总感觉离人类自己上手的效果还差那么一点点。ChatGPT 4.x  很多时候需要通过各种 Prompt 调优，极力去压榨模型的智力。
+
+OpenClaw 的具体表现就是，对 token",2,5,20,4007,https://x.com/Barret_China/status/2030824330196926587
+72,axiaisacat,@axiaisacat,2026-03-07T14:59:38.000Z,"最近发现一个极其硬核的 ""skills""！
+
+如果你平时也用 Cursor 或 Claude 撸前端，那你一定要试试 
+@pbakaus
+ 开源的 Impeccable。
+
+之前让 AI 写 UI，做出来的东西总有一种廉价的“外包感”，因为 AI 根本不懂设计规范。但这个项目，相当于给你的 AI 强行注入了“顶级设计师的灵魂”",20,243,1300,88465,https://x.com/axiaisacat/status/2030297324962857044
+73,dami.eth,@dami16z,2026-03-09T03:46:40.000Z,"龙虾复活小技巧。
+
+如果你想让你的 OpenClaw 龙虾做到“原地存档复活”，
+
+最稳的办法不是让人类手动备份，而是让龙虾自己定期去 GitHub 备份核心数据。
+
+重点不是“会聊天”，而是 有连续性：
+
+• 自己识别该备份什么
+• 自己整理 memory / config / skills / workspace 关键状态
+• 自己 commit
+•",,,11,670,https://x.com/dami16z/status/2030852746732273760
+74,Leobai｜天策,@Leobai825,2026-03-08T17:07:44.000Z,"OpenClaw最新变现思路，U盘版
+怪不得他们能赚到钱，牛逼！
+
+成本25，本来99刚刚直接涨到399
+现在某鱼二次出售从399直接变成699
+
+又是信息差！只能说活该他们赚钱！",15,12,111,40149,https://x.com/Leobai825/status/2030691954313384011
+75,ZEN,@supezen,2026-03-08T06:45:31.000Z,"简单对比了一下
+Opus 4.6 还是比 gpt-5.4 强太多
+同样的bug 
+Opus 4.6 只改了10多行，切中要害，解决了根源问题
+gpt-5.4 添加了好几个方法，改了一堆代码，关键还没解决问题",36,3,63,27585,https://x.com/supezen/status/2030535367041134669
+76,行者AI视频,@joshesye,2026-03-09T03:25:10.000Z,,8,20,114,15053,https://x.com/joshesye/status/2030847335702679693
+77,鱼总聊AI,@AI_Jasonyu,2026-03-08T12:31:02.000Z,,30,79,269,69184,https://x.com/AI_Jasonyu/status/2030622318494671189
+78,向阳乔木,@vista8,2026-03-08T10:08:44.000Z,"一句话，生成大师级设计！
+
+不会PS、不懂配色、不认识艺术家？
+
+没关系，只需用一句话描述。
+
+AI自动选择最合适的艺术风格，为你生成专业级海报、封面和设计作品。
+
+启发自Mondo，拓展书籍/公众号/唱片封面等设计场景
+
+安装Skill
+npx skills add joeseesun/qiaomu-mondo-poster-design
+
+Github见评论区",25,128,577,55485,https://x.com/vista8/status/2030586507493573039
+79,Berryxia.AI,@berryxia,2026-03-08T14:12:17.000Z,"兄弟们！这个太顶了！
+
+Github 上的 Edit Banana这个开源项目太顶了！！！
+今日登上热榜，直接斩获2800Star！
+
+把AI生成的死图、流程图、架构图、PDF统计图、公式图，一键秒变完全可编辑的 DrawIO / SVG / PPTX！
+
+使用SAM3精准分割 + 本地OCR +",15,334,1500,78816,https://x.com/berryxia/status/2030647797586993304
+80,出海去孵化器,@chuhaiqu,2026-03-09T01:31:41.000Z,,,8,34,5837,https://x.com/chuhaiqu/status/2030818773972951394
+81,沐阳,@yyyole,2026-03-08T15:54:46.000Z,"龙虾上桌了！
+全球首个OpenClaw专项政策出台！！
+
+最近，老是看到官方新闻报道OPC（一人公司）！
+总觉得，应该有什么政策要出台了！！
+
+结果，《龙虾十条》真来了！
+深圳发布了十项支持 OpenClaw / OPC 的政策措施！",2,1,3,1314,https://x.com/yyyole/status/2030673591499653401
+82,Cell 细胞,@cellinlab,2026-03-08T14:43:07.000Z,"没想到 2026 年了还有这个问题！
+
+最近大半年我订阅 AI 都是用 Bitget 的信用卡，
+ChatGPT Plus 和 Claude 、Cursor 、X 都用，
+没出现什么问题，有需要的可以收藏试试
+
+https://
+web3.bitget.com/zh/invite_logi
+n?inviteCode=ABn8aa&utm_source=newInviteRebate&type=card&channel=Copylink
+…",8,2,32,14667,https://x.com/cellinlab/status/2030655559788273684
+83,Mr Panda,@PandaTalk8,2026-03-09T01:54:26.000Z,"substack 对于长文阅读的体验是极好的 
+
+
+https://
+pandatalk.substack.com/p/confessions-
+of-an-ai-on-my-boundaries
+…",1,,5,643,https://x.com/PandaTalk8/status/2030824501039276193
+84,一地鸡毛,@zhang_baoqing,2026-03-08T15:01:46.000Z,"别再搞那些只能“陪聊”的 AI 玩具了。
+
+OpenClaw 根本不是什么套壳应用，它是直接赋予 AI 实体操控权的底层引擎。
+
+它能接管你的终端、跑脚本、推代码、控浏览器，甚至是后台并发处理任务。
+
+你只管下达指令，它负责接管现实。
+#OpenClaw #AI智能体 #效率工具",,,,68,https://x.com/zhang_baoqing/status/2030660249733025794
+85,范凯说 AI | AI Insights,@fankaishuoai,2026-03-08T17:01:06.000Z,"升级到了小龙虾 3.7，主控模型 GPT 5.4，Thinking 设置 Medium，模型组合如下：
+
+1. 主控模型： GPT 5.4；
+2. 写作模型：Claude 4.6 Opus；
+3. 编程模型：GPT 5.3 Codex；
+4. 兜底模型：GLM 4.7，兜底和低价值任务。
+4. 向量模型：BGE-M3, 本地向量化，记忆搜索。
+5. 本地模型：Qwen3-Coder-Next。",24,62,409,49102,https://x.com/fankaishuoai/status/2030690284460446015
+86,M.,@wlzh,2026-03-08T07:54:17.000Z,,,,4,658,https://x.com/wlzh/status/2030552670348447825
+87,yetone,@yetone,2026-03-07T19:12:28.000Z,"人们：wow，openclaw 杀死了 GUI！GUI 只是为了人类方便的妥协产物，GUI 是被淘汰的东西！人类再也不需要 GUI 软件了！以后只有为 Agent 造软件的人才会活下来！
+
+openclaw 作者：wow，我发现 GUI 已经大于 CLI 了，GUI 竟然不用多开窗口哎！简直爽爆了！",41,47,396,143366,https://x.com/yetone/status/2030360955344052710
+88,Peter Steinberger,@steipete,2026-03-07T16:54:53.000Z,"codex app needs multi-window, but until then, copying the binary totally works",190,86,2900,233543,https://x.com/steipete/status/2030326329346797915
+89,Stella Lin,@StellaLinNotes,2026-03-09T05:04:12.000Z,我这辈子都写不出这样的文案了,,,,29,https://x.com/StellaLinNotes/status/2030872257288196139
+90,KK.aWSB,@KKaWSB,2026-03-08T23:49:54.000Z,"WiFi穿墙人体追踪技术，现在是开源项目。
+
+原理：WiFi信号穿过人体时会产生独特干扰——相位变化、振幅扰动。用神经网络分析这些扰动，就能重建你的姿态、位置，甚至呼吸和心跳。",11,29,99,22839,https://x.com/KKaWSB/status/2030793161468174393
+91,离谱,@LipuAIX,2026-03-09T04:58:39.000Z,,,,1,102,https://x.com/LipuAIX/status/2030870858202235213
+92,奶昔,@realNyarime,2026-03-08T20:53:59.000Z,历史总是惊人的相似,64,137,1100,209526,https://x.com/realNyarime/status/2030748888483975475
+93,向阳乔木,@vista8,2026-03-08T07:36:57.000Z,"刷抖音看到一个叫mondo的海报设计公司很有品味。
+
+让AI搜索总结写个海报设计skill，果然有点意思。",5,12,64,11628,https://x.com/vista8/status/2030548309375594521
+94,大梦想家迪士尼,@discountifu,2026-03-08T11:16:33.000Z,"无需AI，无需小龙虾
+无需付费API，无需模拟登录，绝对不会封号
+真正100%纯免费的推特币安广场同步",5,,16,4865,https://x.com/discountifu/status/2030603573822968132
+95,Zaotang,@zaotang18,2026-03-09T02:47:12.000Z,慕了，苹果是真良心，下单的是 M4，自动升级成 M5，还增配了 1TB ...,2,,10,2198,https://x.com/zaotang18/status/2030837778255368629
+96,clawi.ai,@ClawiAi,2026-03-08T20:55:47.000Z,I love my job,6,10,75,3405,https://x.com/ClawiAi/status/2030749343410479262
+97,Chetaslua,@chetaslua,2026-03-08T15:27:45.000Z,"one shotted this with gemini 3.1 pro 
+
+codepen link in comment - its simple html/css/js",23,25,620,83519,https://x.com/chetaslua/status/2030666791085912342
+98,Greg Brockman,@gdb,2026-03-08T21:30:10.000Z,"Benchmarks? Where we’re going, we don’t need benchmarks.",402,359,4100,311761,https://x.com/gdb/status/2030757996595437821
+99,自力6XStudio,@hzlzh,2026-03-08T14:33:25.000Z,龙虾的影响力越来越大了～,1,2,15,11525,https://x.com/hzlzh/status/2030653117004738989
+100,sitin,@sitinme,2026-03-07T06:27:00.000Z,"一个叫 Peon Ping 的开源项目火了，10万+ 开发者在用。
+
+它解决的问题：Claude Code 跑长任务时容易""走神""——偏离目标、陷入死循环、做不相关的事。
+
+Peon Ping 的做法：
+
+• 像个监工一样盯着 Claude Code
+• 定期检查它在干什么
+• 发现偏离自动纠正
+• 任务完成自动通知你",15,151,608,40899,https://x.com/sitinme/status/2030168317730644119
+101,独立开发者William,@DLKFZWilliam2,2026-03-08T06:42:00.000Z,"哈哈哈哈哈哈这个项目真是笑死我了，Chrome插件，叫做Only Ads，一键隐藏所有除了广告的所有网页内容。
+
+我发现最近的一个趋势:
+就是在ai时代，搞很严肃产品的流量不是很高；完全 没什么技术 只搞抽象的人的流量也不是很高，
+
+但搞抽象产品的人的流量非常高。",14,18,346,59108,https://x.com/DLKFZWilliam2/status/2030534479752913166
+102,开发者Hailey,@IndieDevHailey,2026-03-08T07:27:02.000Z,"刚发现一个网站，非常值得龙虾族和创业者们收藏。
+
+它是专门统计用 OpenClaw 赚了多少钱。
+项目、收入、全部公开。
+
+目前榜单：
+
+132 个 OpenClaw 项目
+最近 30 天收入 $290K+
+
+最狠的一个项目：
+月收入 $51K。
+
+更夸张的是——
+这些产品其实都很简单：
+
+- OpenClaw 一键部署
+- AI Agent Hosting
+-",44,359,1400,126838,https://x.com/IndieDevHailey/status/2030545813299142860
+103,Jason Zuo,@xxx111god,2026-03-08T15:06:57.000Z,"有人问这个可视化怎么做的
+说实话就是一个简单的openclaw context detail的wrapper script
+把打包成了一个OpenClaw skill：context-doctor 可以直接用
+
+clawhub install context-doctor
+
+一行装完，自动扫 workspace 文件状态、token 占用、bootstrap 占比
+
+三个诊断信号：
+ TRUNCATED —",2,27,181,19099,https://x.com/xxx111god/status/2030661557873451370
+104,克斯马,@mrbleem_eth,2026-03-09T01:02:32.000Z,"Typora也是没想到
+它怎么就成了最佳Coding IDE了",14,5,107,27961,https://x.com/mrbleem_eth/status/2030811440148562296
+105,Andrej Karpathy,@karpathy,2026-03-07T19:53:15.000Z,"I packaged up the ""autoresearch"" project into a new self-contained minimal repo if people would like to play over the weekend. It's basically nanochat LLM training core stripped down to a single-GPU, one file version of ~630 lines of code, then:
+
+- the human iterates on the",784,3300,21000,6315219,https://x.com/karpathy/status/2030371219518931079
+106,meng shao,@shao__meng,2026-03-09T01:29:25.000Z,"在 OpenClaw 的灵魂 (SOUL.md) 中加入这句话，让它从一只  变成  部队？
+
+加入 SOUL.md 的这句话是：
+你是协调者（orchestrator）。永远不要自己做任何工作。为每项任务生成子智能体（subagents）。你的职责是思考、规划与协调，子智能体负责执行。",13,16,79,14480,https://x.com/shao__meng/status/2030818206882103640
+107,外汇交易员,@fxtrader,2026-03-09T04:42:16.000Z,#观察 体验下来，OpenClaw虽然很火热，但是在真正的生产力上基本毫无用处，顶多算是一个面向小白能玩玩，接触下AI的玩具，体验下“哇！”的时刻。你能找到他特别具有生产力的用法吗？,29,5,64,19895,https://x.com/fxtrader/status/2030866737642737997
+108,Tykoo,@0xTykoo,2026-03-08T15:02:18.000Z,"上海场圆满结束，也是给上海人民装上了小龙虾，这次因为时间和场地等原因多少还是带了一些登味，这个我们心里有数，慢慢调整，继续改进，感谢各位优秀的朋友们支持！
+
+后面我们在想要不要去深圳的洗浴中心办个两天的黑客松？？
+
+
+@AvrilynLi
+ 
+@0xajc
+ 
+@gwl_gg
+ 
+@0xLaughing
+ 
+@willwangtf
+ 
+@0xEvieYang",24,8,89,14444,https://x.com/0xTykoo/status/2030660385926447317
+109,61,@liuyi0922,2026-03-08T12:12:31.000Z,在外面学习了一天，顺便写了个新 APP,2,,17,7069,https://x.com/liuyi0922/status/2030617658987868287
+110,Pangyu 胖鱼,@pangyusio,2026-03-09T00:47:55.000Z,"OpenClaw 实现了三件大事：
+
+1. 让文科生们第一次用上了 Agentic AI
+2. 让孙割提出了 Web 4.0
+3. 让孙割的镰刀变成了自动化联合收割机",,4,21,4440,https://x.com/pangyusio/status/2030807761328718133
+111,Agent成峰,@chengfeng240928,2026-03-09T04:51:42.000Z,,,,,47,https://x.com/chengfeng240928/status/2030869110125375791
+112,Ashlyn He,@AshlynHe1129,2026-03-08T14:47:47.000Z,"今天在深圳一个小龙虾派对上，见到了几位投资人，其中也包括朱啸虎。
+
+在最后的讨论环节，主持人问了一个很有意思的问题：
+
+在 AI 时代，到底需要什么样的创始人？
+
+朱总的回答让我印象非常深刻。
+
+他说，
+现在最重要的一种能力，其实是：Taste（品味）。
+
+这其实是我在 AI",56,95,466,89362,https://x.com/AshlynHe1129/status/2030656733916680279
+113,Ethos,@get_Ethos,,Get same-day coverage with Ethos life insurance.,140,242,2200,14524797,https://x.com/get_Ethos/status/2024963714831835547/analytics
+114,鱼总聊AI,@AI_Jasonyu,2026-03-08T15:10:30.000Z,"龙虾已经上央视新闻了，这事儿你怎么看？
+
+深圳已经发了官方的征询意见，感觉这事儿做线下还是大有可为的，别说，线下部署这个还真能做，尤其是深圳、上海、广州这种城市。",68,7,63,25760,https://x.com/AI_Jasonyu/status/2030662448399921289
+115,KK.aWSB,@KKaWSB,2026-03-08T07:09:48.000Z,"一个金融文科生，72小时杀入OpenClaw项目贡献者榜前30。
+
+他叫杨天润，本硕都是金融，做并购投资的。几天前才知道PR是什么。
+
+他没写一行代码，组了支AI军团：Echo管协调，Elon写代码，Henry跑GitHub上@维护者搞社交。
+但故事没那么光鲜。",15,56,430,122548,https://x.com/KKaWSB/status/2030541477110325576
+116,阿绎 AYi,@AYi_AInotes,2026-03-08T06:16:24.000Z,"傅盛现在是彻底放弃搞业务，
+转做全职营销号了？
+
+一场AI活动讲三个小时，全是废话，没技术没实机演示，半点干货没有
+
+说实话，我一直没搞懂傅盛现在的路数，
+
+更看不懂的是，放着公司的管理、业务经营不抓，天天把大把时间耗在自媒体上，到底图啥？难不成真准备下场卖课了？",46,10,73,47018,https://x.com/AYi_AInotes/status/2030528038673211605
+117,Bob Zhang | Humorist,@affLeopard,2026-03-09T02:48:57.000Z,"Get到一个内容降低AI味的办法！
+就是 已读，乱回！
+
+以前总想着回复别人或者写评论的时候一定要跟他的内容强相关，要么表示认可 you right，那么补充一些细节，要么怎么样....
+
+其实真实的生活当中完全不是这样！
+如果你听过女生们聊天没有，我留意过许多次，",,,,82,https://x.com/affLeopard/status/2030838221341667715
+118,Cell 细胞,@cellinlab,2026-03-08T14:40:42.000Z,"笑死，卸在 人生鼎沸时，
+实在太复杂了，看不清楚背后代码，
+准备自己搓一个 极简版 了
+
+另外，龙虾 更像是 工作台 或者 厨房，
+而不是一个 应用、 一个软件，
+更不是一个操作系统！",2,1,1,2440,https://x.com/cellinlab/status/2030654948317258134
+119,安仔,@geekshellio,2026-03-09T04:32:09.000Z,"腾讯门口排了上千人，9岁小孩和70岁工程师一起「养虾」，深圳政府直接出台「龙虾十条」……
+
+这波热潮，还真是似曾相识。
+
+2000年网吧门口排队上网，2010年人人都在刷微博，2017年全民挖矿。每次都是真实技术 + 真实泡沫同时发生。
+
+OpenClaw 这个方向是对的。Agent",,,,113,https://x.com/geekshellio/status/2030864191603749302
+120,Frank,@frank_uid,2026-03-09T03:01:30.000Z,真是让人一言难尽。。。,4,,6,1627,https://x.com/frank_uid/status/2030841380587892988
+121,李继刚,@lijigang,2026-03-08T04:41:10.000Z,"关于读书，可以拉出两个极端：
+
+一端是「古法阅读」，打开一本纸书，从头到尾阅读，时不时前后翻看，关联对比，思考联想。读的过程，本身就是在冲刷自己大脑神经网络。
+
+一端是「AI 阅读」，PDF",67,127,764,99728,https://x.com/lijigang/status/2030504070826598625
+122,卡尔的AI沃茨,@aiwarts,2026-03-08T02:01:19.000Z,"OpenClaw创始人Peter Steinberger几个小时前更新了，按三个维度，成功率，速度和费用给32个模型排名，看看哪个模型最适合OpenClaw。
+
+成功率前五是
+google/gemini-3-flash-preview
+minimax/minimax-m2.1
+（m2.5反而垫底只有35.5%的成功率）
+moonshotai/kimi-k2.5
+anthropic/claude-sonnet-4.5",38,58,256,135211,https://x.com/aiwarts/status/2030463844188078143
+123,Keith McCullough,@KeithMcCullough,,"On my new book, I just wanted to thank everyone for the kind compliments so far 
+
+An incredible number of people have downloaded it (maybe because its FREE! lol) 
+
+Download my new 52-page eBook today: 
+https://
+info.hedgeye.com/keith-master-t
+he-market?twclid=26tiyjeo7qkp4v7u7lg6uxued2
+……",3900,5000,29000,354580,https://x.com/KeithMcCullough/status/1846970778253676959/photo/1
+124,karminski-牙医,@karminski3,2026-03-09T01:14:37.000Z,"给大家带来归一化的Qwen3.5系列模型分数汇总, 惊喜的发现是 27B dense 这个模型的确不以言, 基本达到了期间模型 Qwen3.5-397B-A17B 94% 的性能. 尤其是视觉Agent能力 (比如操作浏览器/手机等图形界面) 是这些里面最强的. 以及长上下文能力, 指令遵循也很不错.
+
+通用 Agent 能力 (比如工具调用， 就是",12,15,147,12742,https://x.com/karminski3/status/2030814479366434961
+125,沐阳,@yyyole,2026-03-08T15:40:19.000Z,"OpenClaw到底最适合哪些人？？
+
+最近用了一周OpenClaw，专业方面的东西没有资格说，但发现一个比较有趣的现象。
+
+对于OpenClaw，社媒上呈现出两极分化的态度：
+一种是把它讲的很神，仿佛只要装上它，一个人就能顶半个团队。
+也有人总是在“祛魅”，说这东西bug多、不安全、用处有限，普通人根本别碰。",11,50,180,21054,https://x.com/yyyole/status/2030669952932557098
+126,Panda,@Jiaxi_Cui,2026-03-08T21:24:10.000Z,"最适合独立开发者的项目是简单的套壳、中转站，甚至不需要懂技术，做好营销
+
+再往上就逐渐需要团队了。第二层做复杂的套壳，Brave、Tavily是套了Google Search API的壳，但也做了优化，可以直接提供summary，不需要agent调完API还需要自己做summary
+
+再往上是自己做原生，而视频是没有Google Search",4,1,28,5656,https://x.com/Jiaxi_Cui/status/2030756483705757780
+127,Orange AI,@oran_ge,2026-03-08T22:33:42.000Z,brave、tavily 这种也很火，大家为什么不直接用 Google 呢 思考,3,,2,3170,https://x.com/oran_ge/status/2030773986276393235
+128,dontbesilent,@dontbesilent,2026-03-08T14:48:36.000Z,"“我不是小白”
+
+= 没见过外面的世界，所以觉得自己不是小白
+
+= 白中白",2,,20,3212,https://x.com/dontbesilent/status/2030656936316969179
+129,苍何,@canghe,2026-03-08T10:29:00.000Z,"兄弟们，免费获得 6 个月 ChatGPT Pro（包含 Codex），今天手把手教大家怎么薅这个官方开源赞助的羊毛。
+
+我刚刚把 openclaw-wechat 提交了 OpenAI 的 Codex 开源开发者计划。
+
+只要你有在维护的开源项目，都可以去试着申请。填表核心就四个问题，教大家怎么拿捏官方的心智：",12,23,173,33477,https://x.com/canghe/status/2030591608748695756
+130,雪踏乌云,@Pluvio9yte,2026-03-09T03:22:38.000Z,"冷知识  
+
+8块钱的ChatGPT Business 能用网页版的ChatGPT Pro
+
+但是20美金的ChatGPT Plus 用不了 Pro",20,2,75,26661,https://x.com/Pluvio9yte/status/2030846695794209188
+131,Peter Steinberger,@steipete,2026-03-09T00:51:54.000Z,"Working lots in codex but sometimes I wanna bring in my openclaw for harder tasks, so extended acpx so it connects to openclaw via acp. 
+https://
+github.com/openclaw/acpx
+
+Now I can access Molty in codex!",67,58,957,57744,https://x.com/steipete/status/2030808763062505758
+132,Peter Steinberger,@steipete,2026-03-09T00:55:59.000Z,"now codex can call openclaw via acp, so openclaw can call codex via acp.",19,10,260,27383,https://x.com/steipete/status/2030809789739966539
+133,Ivanvolt,@ivanvolt815,2026-03-09T03:31:00.000Z,"做独立开发出海一年多了。从懵懵懂懂跌跌撞撞，到现在慢慢有了一些感觉。
+
+这一年里做过不少的网站，有的没跑起来，有的有了一点点自然流量。
+
+但现在回头看，当初做的很多东西其实都不够好：SEO结构、关键词选择、产品定位、内容策略。",,,4,195,https://x.com/ivanvolt815/status/2030848801314107755
+134,Delve,@getdelve,,AI agents just closed a SOC 2 audit in 19 days that should have taken months.,967,1900,10000,51733169,https://x.com/getdelve/status/1927236340699033687/analytics
+135,0xHamster,@btc_hamsters,2026-03-08T04:54:02.000Z,"调教好一套 OpenClaw 要多久？配置、记忆、skill、定时任务，没个把星期出不来
+​
+现在有个 skill 可以一键复制这套东西：agent-pack-n-go
+​
+对 Agent 说「帮我克隆到新设备」，它通过 SSH 把所有东西搬过去。配置、记忆、凭证、定时任务、hosts 文件，全套。约 25 分钟，你只需要配一下",5,100,341,22085,https://x.com/btc_hamsters/status/2030507310658044130
+136,Jeff Li,@jefflijun,2026-03-08T16:04:09.000Z,让Codex简单搓了个插件，才花费不到9万token。相比较而言小龙虾就像个文具多的差生，只会猛烧token,5,2,37,7080,https://x.com/jefflijun/status/2030675951336456654
+137,Steve机械飞升,@SteveHotspots,2026-03-08T08:14:07.000Z,"这几天玩openclaw有点上头，安装了三个技能：
+tavily-search
+wechat-article-search
+multi-search-engine
+
+创建了2个拥有不同记忆的Agents，大耳朵秘书和电力新闻。
+
+可以用三种形式搜索新闻，包括api，网页和微信公众号，集成以后再每天定时推送给telegram",23,31,291,39130,https://x.com/SteveHotspots/status/2030557663558541695
+138,axiaisacat,@axiaisacat,2026-03-09T01:41:42.000Z,"最近又在 GitHub 挖到一个宝藏开源项目：
+Perplexica。 
+
+简单说，这就是 Perplexity AI 的最强开源平替。如果你厌倦了昂贵的订阅费，或者担心搜索隐私，这个项目简直是救星：
+
+ 完全开源：UI 极美，支持 Docker 一键部署。
+ 
+ 模型自由：原生支持 Ollama，本地跑 LLM，真正实现搜索私有化。",2,5,26,1539,https://x.com/axiaisacat/status/2030821297731637663
+139,Karry × Orb,@karry_viber,2026-03-08T07:43:27.000Z,"OpenClaw 3.7 来了，挑几个我觉得最实用的说：
+
+ 记忆搜索修了个大 bug——关键词匹配的排序之前是反的（强匹配反而排后面），修完之后 Agent 找记忆准多了。
+
+ Compaction",4,2,22,12521,https://x.com/karry_viber/status/2030549945665704160
+140,黄赟,@huangyun_122,2026-03-08T18:40:43.000Z,"说个搞笑的事情：很多人跟我一样，Mac 上刚一条命令搞定 OpenClaw, 转头又去玩 Windows，Linux ；TG 玩得好好的，又去搞飞书，微信，，
+
+直到身边人都来找我安装小龙虾，才发现我又变成了那个拿着装机光盘包，开心地在电脑城上串下跳的机仔黄……",2,,19,8026,https://x.com/huangyun_122/status/2030715350631973208
+141,i5ting,@i5ting,2026-03-08T06:31:46.000Z,备案，看看这些无良的媒体,30,32,457,97834,https://x.com/i5ting/status/2030531905217806721
+142,汗青 HQ,@hq4ai,2026-03-08T16:17:07.000Z,"最近在做的事：放弃任何可模版化的量产内容，即便短期起量再快。
+因为供给侧的规则已经完全变了。",7,4,74,12954,https://x.com/hq4ai/status/2030679212257124813
+143,Dev Ed,@developedbyed,2026-03-08T12:06:50.000Z,"Opus 4.6 vs GPT-5.4 (High) (6/9)  
+
+Testing out how well these models to with cloth physics simulation, and honestly both where pretty close here but my god I am shocked how good GPT 5.4 is with optimizing this scene whilst opus 4.6 felt quite janky and lower fps.
+
+GPT 5.4 also",66,133,1700,313444,https://x.com/developedbyed/status/2030616227710701809
+144,Kraken,@krakenfx,,Trade 800+ crypto markets with chart trading and custom alerts,17,49,205,540381,https://x.com/krakenfx/status/2026739209177018813/analytics
+145,0xqiuqiu,@0xqiuqiuu,2026-03-09T04:00:40.000Z,"感谢姐妹夸奖，去年妇女节是在清迈还上街去了，今年是在组织和参加深圳的 OpenClaw 活动。一个周末8、9场爆满的龙虾活动，我只能感慨深圳还是太领先了。
+
+我也和",3,1,11,1865,https://x.com/0xqiuqiuu/status/2030856268139950193
+146,鱼总聊AI,@AI_Jasonyu,2026-03-09T05:19:25.000Z,"中文 X 文章现在最容易打爆的方向：
+
+1、AI 教程和实操路径
+2、带强信息差的工具流内容
+3、宏观判断和情绪强烈的时政表达
+4、能让人立刻代入自己处境的成长、健康、搞钱类内容
+
+中文X标题高频模式：
+
+第一种：保姆级教程型。比如 OpenClaw、Clawdbot、Clawdbox 相关的一堆教程内容，几乎贯穿整个榜单。",1,,5,308,https://x.com/AI_Jasonyu/status/2030876085655933319
+147,Cell 细胞,@cellinlab,2026-03-09T01:10:14.000Z,"笑死，
+
+论图腾 （Meme？）对传播的影响权重",2,1,2,965,https://x.com/cellinlab/status/2030813378491347382
+148,Mr Panda,@PandaTalk8,2026-03-08T13:44:04.000Z,"claude code 和 openclaw 效果好
+除了模型本身的能力外
+主要是agent 提示词和上下文工程能力强
+
+比如用很多上下文， 又是用 react 和大量的思维链
+
+缺点就是费token
+
+这就是有个群友说为啥只说句hello ， 花了他一千个token",7,1,13,10801,https://x.com/PandaTalk8/status/2030640698815615034
+149,KK.aWSB,@KKaWSB,2026-03-09T04:59:10.000Z,此时，处于平行世界里的龙虾爱好者：,3,1,5,790,https://x.com/KKaWSB/status/2030870988947382696
+150,范凯说 AI | AI Insights,@fankaishuoai,2026-03-08T17:09:22.000Z,"立帖为证，没啥卵用。
+
+真要操控小龙虾，微信要改的地方，多的去了。",1,,3,2348,https://x.com/fankaishuoai/status/2030692364738855419
+151,宝玉,@dotey,2026-03-08T08:15:21.000Z,"我在写 baoyu-skills 时，一开始就是让 agent 帮助生成commit message 和changelog
+
+为此写了一个skill：release-skills
+
+https://
+github.com/JimLiu/baoyu-s
+kills/blob/main/.claude/skills/release-skills/SKILL.md
+…
+每次发布只要说：发布更新
+就自动commit，写changelog，打tag
+
+还算通用",10,16,155,32326,https://x.com/dotey/status/2030557974662463761
+152,sitin,@sitinme,2026-03-07T09:13:00.000Z,"SpacetimeDB 2.0 — 号称比传统数据库快 1000 倍的实时数据库
+
+GitHub Trending + Hacker News 同时爆了。
+
+SpacetimeDB 不是普通数据库，它把数据库和服务器合成了一个东西：
+• 客户端直接连数据库，没有中间的 API 服务器
+• 数据变化实时推送到所有客户端
+• 用 Rust 写的，性能拉满",27,126,637,61494,https://x.com/sitinme/status/2030210093128798482
+153,Tykoo,@0xTykoo,2026-03-08T14:30:28.000Z,"BAI Capital的合伙人汪天凡今天在我们活动上说，
+
+他的体感是公司这波裁员的速度比疫情都快，他和一个量化的老板聊，他自己用Openclaw帮他做了分析的工作，然后放假回来就裁了两个员工，
+
+而除了裁员本身之外，他们还取消了一个Bloomberg",14,9,84,14476,https://x.com/0xTykoo/status/2030652375074234766
+154,River Leaf,@riverleaf88,2026-03-08T10:22:12.000Z,OpenClaw为什么能在中国引发这么广泛的FOMO情绪？,82,31,255,300622,https://x.com/riverleaf88/status/2030589896398954651
+155,Lory,@loryoncloud,2026-03-08T13:11:43.000Z,,5,9,43,17704,https://x.com/loryoncloud/status/2030632555704406037
+156,Leobai｜天策,@Leobai825,2026-03-08T17:26:57.000Z,"我靠！今晚真的睡不着觉了！！！
+
+@ZenoRho
+ 薛老板OpenClaw已经爆单了
+牛逼！去干活了！感谢薛老板！",15,3,121,59195,https://x.com/Leobai825/status/2030696787762114620
+157,Sandra,@sandraleow,2026-03-08T14:33:34.000Z,"New Openclaw update allows you to set up ACP thread bindings on telegram channel today! 
+
+Each telegram topic can have its own Claude Code / Codex agent with persistent context 
+
+Similarly with agents, you can bind the specific agents to their respective channels",68,41,853,80488,https://x.com/sandraleow/status/2030653154787033403
+158,老杨啊,@yhslgg,2026-03-09T00:53:06.000Z,"闲鱼再一次引领
+你们虾在进化变U盘了
+感觉卖手机虾的在路上了
+就和当年卖营销手机一样",,,3,1616,https://x.com/yhslgg/status/2030809065996358104
+159,sundyme,@sundyme,2026-03-08T04:22:15.000Z,很多朋友质疑OpenClaw的落地应用能力，今天逛Reddit正好看到 zigzag 分享了3个商业应用案例，强烈安利给像我一样折腾龙虾的朋友。把OpenClaw真正用起来是一个超高智力密度的工作，需要你对AI的能力和自己的任务有全面的认知，有超强的逻辑思维和系统化能力，最好还有一定的技术背景。视频链接见回复,7,60,305,46445,https://x.com/sundyme/status/2030499310757163038
+160,Viking,@vikingmute,2026-03-08T12:34:57.000Z,"这个真的很棒啊：
+https://
+impeccable.style
+
+之前就分享了一些 taste skills，现在这个整了一个全家桶，本身页面设计就很漂亮，带了非常多不同类型的 skills，有各种不同的用途，适用于各种 CLI 或者 IDE。
+
+彻底告别 AI slop design
+
+可以试一下 /audit → /critique → /polish 组合，
+先用 /audit",,30,190,19673,https://x.com/vikingmute/status/2030623304629788807
+161,烁皓,@eternityspring,2026-03-09T01:49:50.000Z,虽然OpenClaw很火，但还是建议有条件的养虾户也试试现在的各种cli 工具。如果你还没用上claude code或者codex cli，那么你用ai的方式和认知大概还停留在上个时代（一年前）。,4,,3,790,https://x.com/eternityspring/status/2030823344321519746
+162,沐阳,@yyyole,2026-03-08T16:14:27.000Z,"烧了那么多token，也该搞个项目，
+让龙虾自己赚生活费了吧！！",,6,15,3162,https://x.com/yyyole/status/2030678542045102410
+163,Gary | Depend Research,@garyintern,2026-03-09T03:38:00.000Z,"X 和  Github 都是可以逆天改命的
+
+如果你能搞出一篇 5000 万浏览的文章，或者一个 20000 星的 Repo，都可以改变生活
+
+人们用自己的 Attention 给你投票，把你推到浪潮之巅
+
+背后的确就是一将功成万骨枯：绝大多数人都是吃不上 AI 红利的",2,1,12,934,https://x.com/garyintern/status/2030850563617980722
+164,AshutoshShrivastava,@ai_for_success,2026-03-08T08:57:30.000Z,"Disappeared like it never existed.
+
+It was supposed to be the Chrome killer",136,10,910,155524,https://x.com/ai_for_success/status/2030568583009607805
+165,Justin,@interjc,2026-03-08T00:51:56.000Z,我个人用下来最合适的 openclaw  虾粮，是 10 块钱在咸鱼买的 Codex Team，搭配 gpt-5.3-codex 很稳,30,34,292,81457,https://x.com/interjc/status/2030446384038707382
+166,大宇,@BTCdayu,2026-03-09T00:41:47.000Z,"不用研究OPENCLAW小龙虾教程了
+腾讯的一键安装微信版来了
+
+腾讯总是这样，不是最快
+但总不会太差",67,75,595,184855,https://x.com/BTCdayu/status/2030806216654623125
+167,Yangyi,@yangyi,2026-03-09T03:44:28.000Z,,,2,7,1706,https://x.com/yangyi/status/2030852190013898829
+168,𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀,@hazenlee,2026-03-08T17:38:30.000Z,哈哈哈,80,154,1400,200913,https://x.com/hazenlee/status/2030699695526551842
+169,luolei,@luoleiorg,2026-03-09T04:33:07.000Z,在考虑要不要把手上这台 MBP 卖掉，换成 MacBook Air 或者 Neo + Mac Mini 的组合。去年把闲置的 M2 Mini 卖了，现在感觉血亏。,12,,14,4631,https://x.com/luoleiorg/status/2030864433803874525
+170,鱼总聊AI,@AI_Jasonyu,2026-03-07T11:11:18.000Z,,61,203,782,141305,https://x.com/AI_Jasonyu/status/2030239866970407135
+171,Cater Wang,@whcater,2026-03-08T14:57:02.000Z,还得是深圳速度，还是得走出自己的观念，拥抱变化,,,,8,https://x.com/whcater/status/2030659058823532955
+172,程序员小灰,@XiaohuiAI666,2026-03-07T09:27:46.000Z,"小灰也是NotebookLM的重度爱好者，强烈推荐这篇NotebookLM深度解析！
+
+全文比较长，建议收藏不迷路",8,208,818,156359,https://x.com/XiaohuiAI666/status/2030213808913039846
+173,铁锤人,@lxfater,2026-03-09T03:31:47.000Z,,10,27,81,5809,https://x.com/lxfater/status/2030848999742398525
+174,huangserva,@servasyy_ai,2026-03-08T08:00:27.000Z,,17,6,68,9532,https://x.com/servasyy_ai/status/2030554224874963436
+175,GitHubDaily,@GitHub_Daily,2026-03-08T07:30:13.000Z,"搭建好 OpenClaw 之后，随着安装的 Agent 越来越多，想搞清楚它们之间的关系和健康状态，人工检查费时费力。
+
+偶然发现 Driftwatch 这个开源工具，30 秒内就能扫描你的智能体目录，生成一张交互式架构图。
+
+扫描约 30",2,37,180,17199,https://x.com/GitHub_Daily/status/2030546613513646452
+176,RainbowBird | 洛灵,@luoling8192,2026-03-08T12:39:01.000Z,"做了一个自动给 Github Star 的仓库分类并且添加到对应 List 里面的脚本
+需要的评论区自取",4,,21,2266,https://x.com/luoling8192/status/2030624325393633633
+177,蓝点网,@landiantech,2026-03-08T04:00:40.000Z,"从封号到开放！腾讯 #QQ 正式推出 #OpenClaw 连接方案，利用开发者 Sliverp 开发的 QQBot 开源插件实现连接。此前 QQ 就明确说明不能拿机器人来对接 OpenClaw 否则可能会被封号，但眼看着各大通讯工具都在支持龙虾，现在 QQ 团队也终于开放龙虾的连接。1 分钟配置指南：
+https://
+ourl.co/112054?x",18,69,474,103958,https://x.com/landiantech/status/2030493880148508996
+178,61,@liuyi0922,2026-03-08T11:38:12.000Z,今天开了个家长会,4,2,41,10762,https://x.com/liuyi0922/status/2030609023477875098
+179,AlexZ,@blackanger,2026-03-07T22:55:21.000Z,"曼宁出了本给程序员看的投资书，学习学习
+
+AI Agent 时代了，想让 Agent 帮着赚钱首先自己得懂吧",21,261,1900,154674,https://x.com/blackanger/status/2030417046874579110
+180,chaosflutter,@chaosflutt28952,2026-03-08T23:56:29.000Z,在微信读书神作榜发现这本《从零构建大模型》，昨天抽时间读了前三章，写得确实好，除了提供系统的理论框架，实操性也很强。推荐给感兴趣的同学。,3,24,212,10107,https://x.com/chaosflutt28952/status/2030794819153645975
